@@ -1,0 +1,12 @@
+E:\LocalSVN\SVN\Git\DownloadNovel\DownloadNovel\bin\Debug\Yungs.exe
+E:\LocalSVN\SVN\Git\DownloadNovel\DownloadNovel\bin\Debug\Yungs.pdb
+E:\LocalSVN\SVN\Git\DownloadNovel\DownloadNovel\bin\Debug\HtmlAgilityPack.dll
+E:\LocalSVN\SVN\Git\DownloadNovel\DownloadNovel\bin\Debug\HtmlAgilityPack.pdb
+E:\LocalSVN\SVN\Git\DownloadNovel\DownloadNovel\bin\Debug\HtmlAgilityPack.xml
+E:\LocalSVN\SVN\Git\DownloadNovel\DownloadNovel\obj\Debug\Yungs.csprojResolveAssemblyReference.cache
+E:\LocalSVN\SVN\Git\DownloadNovel\DownloadNovel\obj\Debug\Yungs.Form1.resources
+E:\LocalSVN\SVN\Git\DownloadNovel\DownloadNovel\obj\Debug\Yungs.Properties.Resources.resources
+E:\LocalSVN\SVN\Git\DownloadNovel\DownloadNovel\obj\Debug\Yungs.csproj.GenerateResource.Cache
+E:\LocalSVN\SVN\Git\DownloadNovel\DownloadNovel\obj\Debug\Yungs.exe
+E:\LocalSVN\SVN\Git\DownloadNovel\DownloadNovel\obj\Debug\Yungs.pdb
+E:\LocalSVN\SVN\Git\DownloadNovel\DownloadNovel\bin\Debug\Yungs.exe.config

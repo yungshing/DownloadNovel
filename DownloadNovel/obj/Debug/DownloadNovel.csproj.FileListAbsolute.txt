@@ -1,0 +1,11 @@
+E:\LocalSVN\SVN\Git\DownloadNovel\DownloadNovel\bin\Debug\DownloadNovel.exe
+E:\LocalSVN\SVN\Git\DownloadNovel\DownloadNovel\bin\Debug\DownloadNovel.pdb
+E:\LocalSVN\SVN\Git\DownloadNovel\DownloadNovel\bin\Debug\HtmlAgilityPack.dll
+E:\LocalSVN\SVN\Git\DownloadNovel\DownloadNovel\bin\Debug\HtmlAgilityPack.pdb
+E:\LocalSVN\SVN\Git\DownloadNovel\DownloadNovel\bin\Debug\HtmlAgilityPack.xml
+E:\LocalSVN\SVN\Git\DownloadNovel\DownloadNovel\obj\Debug\DownloadNovel.csprojResolveAssemblyReference.cache
+E:\LocalSVN\SVN\Git\DownloadNovel\DownloadNovel\obj\Debug\DownloadNovel.Form1.resources
+E:\LocalSVN\SVN\Git\DownloadNovel\DownloadNovel\obj\Debug\DownloadNovel.Properties.Resources.resources
+E:\LocalSVN\SVN\Git\DownloadNovel\DownloadNovel\obj\Debug\DownloadNovel.csproj.GenerateResource.Cache
+E:\LocalSVN\SVN\Git\DownloadNovel\DownloadNovel\obj\Debug\DownloadNovel.exe
+E:\LocalSVN\SVN\Git\DownloadNovel\DownloadNovel\obj\Debug\DownloadNovel.pdb
